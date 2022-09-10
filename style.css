@@ -1,0 +1,97 @@
+img {
+    width: 30%;
+    border-radius: 50%;
+    float: right;
+    padding: 5px;
+    border: 15px solid white;
+}
+
+
+body {
+    color: white;
+    background-color: #382a2a;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 2;
+    font-weight: normal;
+    margin: 0;
+}
+
+.contact{   
+    background-color: #D9BFB1;
+    padding: 20px 10%;
+    border-top: 15px solid white;
+    font-size: 25px;
+    text-align: center;
+    color: #6c5555;
+    
+}
+
+h1{
+    color: white;
+    margin: 0;
+    text-align: center;
+    font-size: 75px;
+    padding: 100px 30px;
+}
+
+a{
+    color: #544242;
+}
+
+section{
+    padding:50px 15%;
+
+}
+.work{
+    background-color: #897979;
+}
+footer{
+    padding:20px;
+    text-align: center;
+    background-color: #382a2a;
+}
+
+.education{
+    background-color: #D9BFB1;
+}
+.skills{
+    background-color: #897979
+}
+
+.work h3{
+    padding:0px;
+}
+
+
+.secondtd{
+    border-left: 5px solid white;
+    text-align: left;
+    padding: 10px 10px;
+
+}
+.firsttd {
+    text-align: center;
+    padding: 10px 10px;
+}
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+.menu li {
+    display: inline-block;
+
+}
+.menu a {
+    display: inline-block;
+    color: #D9BFB1;
+    padding: 20px 30px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+    background-color: #715858;
+}
